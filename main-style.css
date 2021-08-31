@@ -1,0 +1,48 @@
+#main {
+    background-color: #eee;
+}
+
+p {
+    font-size: 15px;
+}
+
+#img-div {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: wrap;
+    padding: 10px;
+    margin: auto;
+    width: 1050px;
+    height: auto;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0;
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+#tribute-info {
+    padding : 50px;
+}
+
+#caption {
+    font-weight: bold;
+}
+
+ul,
+.p {
+    text-align: left;
+    padding: 25px 370px;
+}
+
+.pp {
+    padding: 5x 370px;
+}
