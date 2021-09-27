@@ -51,6 +51,11 @@ ul li {
     margin: auto;
 }
 
+#title a {
+    text-decoration: none;
+    color: black;
+}
+
 @media (max-width: 1200px) {
     .ul_container {
         width: 55%;
