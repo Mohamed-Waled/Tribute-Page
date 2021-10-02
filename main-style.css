@@ -1,3 +1,11 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+}
+
 #main {
     background-color: #eee;
 }
@@ -56,6 +64,10 @@ ul li {
     color: black;
 }
 
+.footer {
+    font-weight: bold;
+}
+
 @media (max-width: 1200px) {
     .ul_container {
         width: 55%;
@@ -65,11 +77,30 @@ ul li {
 @media (max-width: 992px) {
     .ul_container{
         font-size: 2rem;
+        width: 80%;
     }
 }
 
 @media (max-width: 768px) {
+    .ul_container {
+        width: 100%;
+        margin-left: -3rem;
+    }
+    .p,
+    .pp {
+        text-align: center;
+        margin-left: 3rem;
+    }
 }
 
 @media (max-width: 576px) {
+    .ul_container {
+        width: 100%;
+        margin-left: -3rem;
+    }
+    .p,
+    .pp {
+        text-align: center;
+        margin-left: 3rem;
+    }
 }
