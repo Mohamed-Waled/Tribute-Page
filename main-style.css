@@ -94,6 +94,7 @@ ul li {
 }
 
 @media (max-width: 576px) {
+<<<<<<< HEAD
     .ul_container {
         width: 100%;
         margin-left: -3rem;
@@ -104,3 +105,6 @@ ul li {
         margin-left: 3rem;
     }
 }
+=======
+}
+>>>>>>> bebb7ca42ca3844b5750784dcdd630a06788f551
