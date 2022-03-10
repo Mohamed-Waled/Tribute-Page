@@ -15,8 +15,8 @@ This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/le
 
 ### Screenshot
 
-![]()
-![]()
+![](https://raw.githubusercontent.com/Mohamed-Waled/Tribute-Page/main/Images/Screenshot%202022-03-10%20at%2015-53-32%20Tribute%20Page.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Tribute-Page/main/Images/Screenshot%202022-03-10%20at%2015-53-46%20Tribute%20Page.png)
 
 ### Links
 
