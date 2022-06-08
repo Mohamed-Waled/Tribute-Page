@@ -20,7 +20,6 @@ This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/le
 
 ### Links
 
-- Solution URL: [Solution URL here](https://codepen.io/mohamed-waled-the-styleful/pen/WNOrqLY)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Tribute-Page/)
 
 ## My process
